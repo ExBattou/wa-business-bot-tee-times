@@ -121,17 +121,9 @@ app.get("/webhook", (req, res) => {
   const challenge = req.query["hub.challenge"];
 
   if (mode === "subscribe" && token === process.env.VERIFY_TOKEN) {
-    console.log("✅ Webhook verificado por Meta");
-    console.log("   mode:", mode);
-    console.log("   token recibido:", token);
-    console.log("   token en .env:", process.env.VERIFY_TOKEN);
     res.status(200).send(challenge);
   } else {
     console.warn("⚠️  Verificación fallida");
-    console.log("✅ Webhook verificado por Meta");
-    console.log("   mode:", mode);
-    console.log("   token recibido:", token);
-    console.log("   token en .env:", process.env.VERIFY_TOKEN);
     res.sendStatus(403);
   }
 });
