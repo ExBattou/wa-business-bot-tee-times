@@ -1,0 +1,3471 @@
+{
+  "club": "JURADO",
+  "fetchedAt": "2026-05-06T14:49:56.043Z",
+  "month": "Mayo 2026",
+  "tournaments": [
+    {
+      "torIdd": "1735613555",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 02/01/2025",
+      "date": "2025-01-02",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1735613555&club=JURADO"
+    },
+    {
+      "torIdd": "-233401800",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 03/01/2025",
+      "date": "2025-01-03",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-233401800&club=JURADO"
+    },
+    {
+      "torIdd": "1735684047",
+      "name": "18 HOYOS MEDAL PLAY SABADO 4/01/2025",
+      "date": "2025-01-04",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1735684047&club=JURADO"
+    },
+    {
+      "torIdd": "-190078620",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 5/01/2025",
+      "date": "2025-01-05",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-190078620&club=JURADO"
+    },
+    {
+      "torIdd": "-438136442",
+      "name": "18 HOYOS MEDAL PLAY MARTES 7/01/2025",
+      "date": "2025-01-07",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-438136442&club=JURADO"
+    },
+    {
+      "torIdd": "1735924993",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 8/01/2025",
+      "date": "2025-01-08",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1735924993&club=JURADO"
+    },
+    {
+      "torIdd": "359399214",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 9/01/2025",
+      "date": "2025-01-09",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=359399214&club=JURADO"
+    },
+    {
+      "torIdd": "817835799",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 10/01/2025",
+      "date": "2025-01-10",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=817835799&club=JURADO"
+    },
+    {
+      "torIdd": "-320373652",
+      "name": "18 HOYOS MEDAL PLAY SABADO 11/01/2025",
+      "date": "2025-01-11",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-320373652&club=JURADO"
+    },
+    {
+      "torIdd": "-1652955395",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 12/01/2025",
+      "date": "2025-01-12",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1652955395&club=JURADO"
+    },
+    {
+      "torIdd": "1736651557",
+      "name": "18 HOYOS MEDAL PLAY MARTES 14/01/2025",
+      "date": "2025-01-14",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1736651557&club=JURADO"
+    },
+    {
+      "torIdd": "-498910334",
+      "name": "MIERCOLES 15/01/2025 9 HOYOS POR AIREACION",
+      "date": "2025-01-15",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-498910334&club=JURADO"
+    },
+    {
+      "torIdd": "63455707",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 16/01/2025",
+      "date": "2025-01-16",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=63455707&club=JURADO"
+    },
+    {
+      "torIdd": "85874048",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 17/01/2025",
+      "date": "2025-01-17",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=85874048&club=JURADO"
+    },
+    {
+      "torIdd": "1736997067",
+      "name": "18 HOYOS MEDAL PLAY SABADO 18/01/2025",
+      "date": "2025-01-18",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1736997067&club=JURADO"
+    },
+    {
+      "torIdd": "1262722480",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 19/01/2025",
+      "date": "2025-01-19",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1262722480&club=JURADO"
+    },
+    {
+      "torIdd": "504921035",
+      "name": "18 HOYOS MEDAL PLAY MARTES 21/01/2025",
+      "date": "2025-01-21",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=504921035&club=JURADO"
+    },
+    {
+      "torIdd": "-2059000656",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 22/01/2025",
+      "date": "2025-01-22",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2059000656&club=JURADO"
+    },
+    {
+      "torIdd": "1737389996",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 23/01/2025",
+      "date": "2025-01-23",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1737389996&club=JURADO"
+    },
+    {
+      "torIdd": "-1030778563",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 24/01/2025",
+      "date": "2025-01-24",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1030778563&club=JURADO"
+    },
+    {
+      "torIdd": "234444218",
+      "name": "18 HOYOS MEDAL PLAY SABADO 25/01/2025",
+      "date": "2025-01-25",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=234444218&club=JURADO"
+    },
+    {
+      "torIdd": "-1000788557",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 26/01/2025",
+      "date": "2025-01-26",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1000788557&club=JURADO"
+    },
+    {
+      "torIdd": "-797189512",
+      "name": "18 HOYOS MEDAL PLAY MARTES 28/01/2025",
+      "date": "2025-01-28",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-797189512&club=JURADO"
+    },
+    {
+      "torIdd": "839726873",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 29/01/2025",
+      "date": "2025-01-29",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=839726873&club=JURADO"
+    },
+    {
+      "torIdd": "-1257036442",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 30/01/2025",
+      "date": "2025-01-30",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1257036442&club=JURADO"
+    },
+    {
+      "torIdd": "-478726417",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 31/01/2025",
+      "date": "2025-01-31",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-478726417&club=JURADO"
+    },
+    {
+      "torIdd": "1737848793",
+      "name": "18 HOYOS MEDAL PLAY SABADO 1/02/2025",
+      "date": "2025-02-01",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1737848793&club=JURADO"
+    },
+    {
+      "torIdd": "-130873562",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 2/02/2025",
+      "date": "2025-02-02",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-130873562&club=JURADO"
+    },
+    {
+      "torIdd": "82077103",
+      "name": "18 HOYOS MEDAL PLAY MARTES 4/02/2025",
+      "date": "2025-02-04",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=82077103&club=JURADO"
+    },
+    {
+      "torIdd": "1346443716",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 5/02/2025",
+      "date": "2025-02-05",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1346443716&club=JURADO"
+    },
+    {
+      "torIdd": "899129205",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 6/02/2025",
+      "date": "2025-02-06",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=899129205&club=JURADO"
+    },
+    {
+      "torIdd": "-114678382",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 7/02/2025",
+      "date": "2025-02-07",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-114678382&club=JURADO"
+    },
+    {
+      "torIdd": "-1263941973",
+      "name": "18 HOYOS MEDAL PLAY SABADO 8/02/2025",
+      "date": "2025-02-08",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1263941973&club=JURADO"
+    },
+    {
+      "torIdd": "-569012720",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 9/02/2025",
+      "date": "2025-02-09",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-569012720&club=JURADO"
+    },
+    {
+      "torIdd": "1739062061",
+      "name": "18 HOYOS MEDAL PLAY MARTES 11/02/2025",
+      "date": "2025-02-10",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1739062061&club=JURADO"
+    },
+    {
+      "torIdd": "-831417110",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 12/02/2025",
+      "date": "2025-02-12",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-831417110&club=JURADO"
+    },
+    {
+      "torIdd": "2118215971",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 13/02/2025",
+      "date": "2025-02-13",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2118215971&club=JURADO"
+    },
+    {
+      "torIdd": "-810226392",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 14/02/2025",
+      "date": "2025-02-14",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-810226392&club=JURADO"
+    },
+    {
+      "torIdd": "1739568952",
+      "name": "18 HOYOS MEDAL PLAY SABADO 15/02/2025",
+      "date": "2025-02-15",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1739568952&club=JURADO"
+    },
+    {
+      "torIdd": "-830503719",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 16/02/2025",
+      "date": "2025-02-16",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-830503719&club=JURADO"
+    },
+    {
+      "torIdd": "1390031233",
+      "name": "18 HOYOS MEDAL PLAY MARTES 18/02/2025",
+      "date": "2025-02-18",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1390031233&club=JURADO"
+    },
+    {
+      "torIdd": "873765294",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 19/02/2025",
+      "date": "2025-02-19",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=873765294&club=JURADO"
+    },
+    {
+      "torIdd": "791762839",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 20/02/2025",
+      "date": "2025-02-20",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=791762839&club=JURADO"
+    },
+    {
+      "torIdd": "-753004660",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 21/02/2025",
+      "date": "2025-02-21",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-753004660&club=JURADO"
+    },
+    {
+      "torIdd": "-1848580333",
+      "name": "18 HOYOS MEDAL PLAY SABADO 22/02/2025",
+      "date": "2025-02-22",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1848580333&club=JURADO"
+    },
+    {
+      "torIdd": "1739660384",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 23/02/2025",
+      "date": "2025-02-23",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1739660384&club=JURADO"
+    },
+    {
+      "torIdd": "1740155702",
+      "name": "18 HOYOS MEDAL PLAY MARTES 25/02/2025",
+      "date": "2025-02-25",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1740155702&club=JURADO"
+    },
+    {
+      "torIdd": "1690868863",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 26/02/2025",
+      "date": "2025-02-26",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1690868863&club=JURADO"
+    },
+    {
+      "torIdd": "-660759468",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 27/02/2025",
+      "date": "2025-02-27",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-660759468&club=JURADO"
+    },
+    {
+      "torIdd": "522711749",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 28/02/2025",
+      "date": "2025-02-28",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=522711749&club=JURADO"
+    },
+    {
+      "torIdd": "-161305950",
+      "name": "18 HOYOS MEDAL PLAY SABADO 01/03/2025",
+      "date": "2025-03-01",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-161305950&club=JURADO"
+    },
+    {
+      "torIdd": "-215643525",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 02/03/2025",
+      "date": "2025-03-02",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-215643525&club=JURADO"
+    },
+    {
+      "torIdd": "1740755952",
+      "name": "18 HOYOS MEDAL PLAY LUNES 03/03/2025",
+      "date": "2025-03-03",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1740755952&club=JURADO"
+    },
+    {
+      "torIdd": "1740756180",
+      "name": "18 HOYOS MEDAL PLAY MARTES 04/03/2025",
+      "date": "2025-03-04",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1740756180&club=JURADO"
+    },
+    {
+      "torIdd": "1740944678",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 05/03/2025",
+      "date": "2025-03-05",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1740944678&club=JURADO"
+    },
+    {
+      "torIdd": "64224175",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 06/03/2025",
+      "date": "2025-03-06",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=64224175&club=JURADO"
+    },
+    {
+      "torIdd": "-517834812",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 07/03/2024",
+      "date": "2025-03-07",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-517834812&club=JURADO"
+    },
+    {
+      "torIdd": "1741316527",
+      "name": "18 HOYOS MEDAL PLAY SABADO 08/03/2025",
+      "date": "2025-03-08",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1741316527&club=JURADO"
+    },
+    {
+      "torIdd": "1393976772",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 09/03/2025",
+      "date": "2025-03-09",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1393976772&club=JURADO"
+    },
+    {
+      "torIdd": "1741572743",
+      "name": "18 HOYOS MEDAL PLAY MARTES 11/03/2025",
+      "date": "2025-03-11",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1741572743&club=JURADO"
+    },
+    {
+      "torIdd": "-721919044",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 12/03/2025",
+      "date": "2025-03-12",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-721919044&club=JURADO"
+    },
+    {
+      "torIdd": "-599494643",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 13/03/2025",
+      "date": "2025-03-13",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-599494643&club=JURADO"
+    },
+    {
+      "torIdd": "-1225564086",
+      "name": "18 HMP TORNEO DIVOT&CO VIERNES 14/03/2025",
+      "date": "2025-03-14",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1225564086&club=JURADO"
+    },
+    {
+      "torIdd": "-1528312883",
+      "name": "18 HOYOS MEDAL PLAY SABADO 15/03/2025",
+      "date": "2025-03-15",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1528312883&club=JURADO"
+    },
+    {
+      "torIdd": "1742006635",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 16/03/2025",
+      "date": "2025-03-16",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1742006635&club=JURADO"
+    },
+    {
+      "torIdd": "1742152353",
+      "name": "MARTES 9 HOYOS 18/03/2025 POR AIREACION",
+      "date": "2025-03-18",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1742152353&club=JURADO"
+    },
+    {
+      "torIdd": "-852640690",
+      "name": "MIERCOLES 9 HOYOS 19/03/2025 POR AIREACION",
+      "date": "2025-03-19",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-852640690&club=JURADO"
+    },
+    {
+      "torIdd": "901262775",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 20/03/2023",
+      "date": "2025-03-20",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=901262775&club=JURADO"
+    },
+    {
+      "torIdd": "87192364",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 21/03/2025",
+      "date": "2025-03-21",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=87192364&club=JURADO"
+    },
+    {
+      "torIdd": "743950013",
+      "name": "18 HOYOS MEDAL PLAY SABADO 22/03/2025",
+      "date": "2025-03-22",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=743950013&club=JURADO"
+    },
+    {
+      "torIdd": "1715191098",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 23/03/2025",
+      "date": "2025-03-23",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1715191098&club=JURADO"
+    },
+    {
+      "torIdd": "566861394",
+      "name": "18 HOYOS MEDAL PLAY LUNES 24/03/2025",
+      "date": "2025-03-24",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=566861394&club=JURADO"
+    },
+    {
+      "torIdd": "1742687897",
+      "name": "18 HOYOS MEDAL PLAY MARTES 25/03/2025",
+      "date": "2025-03-25",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1742687897&club=JURADO"
+    },
+    {
+      "torIdd": "1277052646",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 26/03/2025",
+      "date": "2025-03-26",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1277052646&club=JURADO"
+    },
+    {
+      "torIdd": "1350900335",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 27/03/2025",
+      "date": "2025-03-27",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1350900335&club=JURADO"
+    },
+    {
+      "torIdd": "1843748740",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 28/03/2025",
+      "date": "2025-03-28",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1843748740&club=JURADO"
+    },
+    {
+      "torIdd": "-2091152992",
+      "name": "18 HOYOS MEDAL PLAY SABADO 29/03/2025",
+      "date": "2025-03-29",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2091152992&club=JURADO"
+    },
+    {
+      "torIdd": "-1665339103",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 30/03/2025",
+      "date": "2025-03-30",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1665339103&club=JURADO"
+    },
+    {
+      "torIdd": "1743283968",
+      "name": "18 HOYOS MEDAL PLAY MARTES 01/04/2025",
+      "date": "2025-04-01",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1743283968&club=JURADO"
+    },
+    {
+      "torIdd": "-798745855",
+      "name": "18 HOYOS MEDAL PLAY 02/04/2025 MIERCOLES",
+      "date": "2025-04-02",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-798745855&club=JURADO"
+    },
+    {
+      "torIdd": "219915566",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 03/04/2026",
+      "date": "2025-04-03",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=219915566&club=JURADO"
+    },
+    {
+      "torIdd": "163798295",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 04/04/2025",
+      "date": "2025-04-04",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=163798295&club=JURADO"
+    },
+    {
+      "torIdd": "-251781018",
+      "name": "18 HOYOS MEDAL PLAY SABADO 05/04/2025",
+      "date": "2025-04-05",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-251781018&club=JURADO"
+    },
+    {
+      "torIdd": "1229411823",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 06/04/2025",
+      "date": "2025-04-06",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1229411823&club=JURADO"
+    },
+    {
+      "torIdd": "82964322",
+      "name": "18 HOYOS MEDAL PLAY MARTES 08/04/2025",
+      "date": "2025-04-08",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=82964322&club=JURADO"
+    },
+    {
+      "torIdd": "-1441193925",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 09/04/2025",
+      "date": "2025-04-09",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1441193925&club=JURADO"
+    },
+    {
+      "torIdd": "-1591759776",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 10/04/2025",
+      "date": "2025-04-10",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1591759776&club=JURADO"
+    },
+    {
+      "torIdd": "-9466655",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 11/04/2025",
+      "date": "2025-04-11",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-9466655&club=JURADO"
+    },
+    {
+      "torIdd": "1871435690",
+      "name": "36 HMP TORNEO APERTURA 12-13/04/2025 SYD",
+      "date": "2025-04-12",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1871435690&club=JURADO"
+    },
+    {
+      "torIdd": "1744510299",
+      "name": "ULT. 18 HOYOS APERTURA 25 DOMINGO 13/04/25",
+      "date": "2025-04-13",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1744510299&club=JURADO"
+    },
+    {
+      "torIdd": "1744398128",
+      "name": "18 HOYOS MEDAL PLAY MARTES 15/04/2025",
+      "date": "2025-04-15",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1744398128&club=JURADO"
+    },
+    {
+      "torIdd": "898384753",
+      "name": "18 HMP CIRCUITO CALLAWAY 16/04/2025 MIERCOLES",
+      "date": "2025-04-16",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=898384753&club=JURADO"
+    },
+    {
+      "torIdd": "-713072418",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 17/04/2025",
+      "date": "2025-04-17",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-713072418&club=JURADO"
+    },
+    {
+      "torIdd": "1508604679",
+      "name": "18 HOYOS MEDAL PLAY 18/04/2025 VIERNES PASCUAS",
+      "date": "2025-04-18",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1508604679&club=JURADO"
+    },
+    {
+      "torIdd": "1744417469",
+      "name": "18 HOYOS MEDAL PLAY 19/04/2025 SABADO",
+      "date": "2025-04-19",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1744417469&club=JURADO"
+    },
+    {
+      "torIdd": "1538931002",
+      "name": "18 HOYOS MEDAL PLAY 20/04/2025 DOMINGO",
+      "date": "2025-04-20",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1538931002&club=JURADO"
+    },
+    {
+      "torIdd": "2056548524",
+      "name": "18 HOYOS MEDAL PLAY MARTES 22/04/2025",
+      "date": "2025-04-22",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2056548524&club=JURADO"
+    },
+    {
+      "torIdd": "-1202563523",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 23/04/2025",
+      "date": "2025-04-23",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1202563523&club=JURADO"
+    },
+    {
+      "torIdd": "2117334714",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 24/04/2025",
+      "date": "2025-04-24",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2117334714&club=JURADO"
+    },
+    {
+      "torIdd": "1800239795",
+      "name": "18 HMP CIRCUITO DIVOT&CO VIERNES 25/04/2025",
+      "date": "2025-04-25",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1800239795&club=JURADO"
+    },
+    {
+      "torIdd": "-426024072",
+      "name": "18 HOYOS MEDAL PLAY SABADO 26/04/2025",
+      "date": "2025-04-26",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-426024072&club=JURADO"
+    },
+    {
+      "torIdd": "-1431417831",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 27/04/2025",
+      "date": "2025-04-27",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1431417831&club=JURADO"
+    },
+    {
+      "torIdd": "1745609990",
+      "name": "18 HOYOS MEDAL PLAY MARTES 29/04/2025",
+      "date": "2025-04-29",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1745609990&club=JURADO"
+    },
+    {
+      "torIdd": "-1655003633",
+      "name": "18 HMP CIRCUITO CALLAWAY 30/04/25 MIERCOLES",
+      "date": "2025-04-30",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1655003633&club=JURADO"
+    },
+    {
+      "torIdd": "-1830770012",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 01/05/2025",
+      "date": "2025-05-01",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1830770012&club=JURADO"
+    },
+    {
+      "torIdd": "533550805",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 02/05/25 N/LAB",
+      "date": "2025-05-02",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=533550805&club=JURADO"
+    },
+    {
+      "torIdd": "1745689956",
+      "name": "18 HOYOS MEDAL PLAY SABADO 03/05/2025",
+      "date": "2025-05-03",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1745689956&club=JURADO"
+    },
+    {
+      "torIdd": "2008416917",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 04/05/2025",
+      "date": "2025-05-04",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2008416917&club=JURADO"
+    },
+    {
+      "torIdd": "227562034",
+      "name": "18 HOYOS MEDAL PLAY MARTES 06/05/2025",
+      "date": "2025-05-06",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=227562034&club=JURADO"
+    },
+    {
+      "torIdd": "515333835",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 07/05/2025",
+      "date": "2025-05-07",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=515333835&club=JURADO"
+    },
+    {
+      "torIdd": "1746566503",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 08/05/2025",
+      "date": "2025-05-08",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1746566503&club=JURADO"
+    },
+    {
+      "torIdd": "611163364",
+      "name": "PRO-AM PROFESIONALES 18 HMP JUEVES",
+      "date": "2025-05-08",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=611163364&club=JURADO"
+    },
+    {
+      "torIdd": "-820873988",
+      "name": "PRO-AM TORNEO INAUGURACION LEEGOLF 8/05/25",
+      "date": "2025-05-08",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-820873988&club=JURADO"
+    },
+    {
+      "torIdd": "1746577607",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 09/05/2025",
+      "date": "2025-05-09",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1746577607&club=JURADO"
+    },
+    {
+      "torIdd": "1746806984",
+      "name": "18 HBF AMER.CLASIF. COPA CAPITAN SAB. 10/05/25",
+      "date": "2025-05-10",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1746806984&club=JURADO"
+    },
+    {
+      "torIdd": "-1343169751",
+      "name": "18 HMP DOM 11/05/25 PARALEL CUARTOS FINAL",
+      "date": "2025-05-11",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1343169751&club=JURADO"
+    },
+    {
+      "torIdd": "1399679607",
+      "name": "18 HOYOS MEDAL PLAY MARTES 13/05/2025",
+      "date": "2025-05-13",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1399679607&club=JURADO"
+    },
+    {
+      "torIdd": "-2103271188",
+      "name": "18 CIRCUITO CALLAWAY 18 HMP 14/05/2025 MIERC",
+      "date": "2025-05-14",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2103271188&club=JURADO"
+    },
+    {
+      "torIdd": "-1305849475",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 15/05/2025",
+      "date": "2025-05-15",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1305849475&club=JURADO"
+    },
+    {
+      "torIdd": "82223354",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 16/05/2025",
+      "date": "2025-05-16",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=82223354&club=JURADO"
+    },
+    {
+      "torIdd": "1747081389",
+      "name": "18 HMP SAB 17/05/25 PARAL SEMIFINALES C CAP",
+      "date": "2025-05-17",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1747081389&club=JURADO"
+    },
+    {
+      "torIdd": "-1275788182",
+      "name": "18 HMP DOM 18/05/25 PARAL FINALES C. CAPITAN",
+      "date": "2025-05-18",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1275788182&club=JURADO"
+    },
+    {
+      "torIdd": "-1882474096",
+      "name": "18 HOYOS MEDAL PLAY MARTES 20/052025",
+      "date": "2025-05-20",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1882474096&club=JURADO"
+    },
+    {
+      "torIdd": "1414803687",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 21/05/2025",
+      "date": "2025-05-21",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1414803687&club=JURADO"
+    },
+    {
+      "torIdd": "-477692335",
+      "name": "18 HMP CIRCUITO CALLAWAY 22/05/25 JUEVES",
+      "date": "2025-05-22",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-477692335&club=JURADO"
+    },
+    {
+      "torIdd": "108493374",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 23/05/2025",
+      "date": "2025-05-23",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=108493374&club=JURADO"
+    },
+    {
+      "torIdd": "1208272597",
+      "name": "18 H MEDAL PLAY SAB 24/05 1RA VTA CLAS SCR.",
+      "date": "2025-05-24",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1208272597&club=JURADO"
+    },
+    {
+      "torIdd": "1069175154",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 25/05/2025",
+      "date": "2025-05-25",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1069175154&club=JURADO"
+    },
+    {
+      "torIdd": "-591027196",
+      "name": "18 HOYOS MEDAL PLAY 27/07/2025 MARTES",
+      "date": "2025-05-27",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-591027196&club=JURADO"
+    },
+    {
+      "torIdd": "1293511861",
+      "name": "18 HOYOS MEDAL PLAY 28/05/2025 MIERCOLES",
+      "date": "2025-05-28",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1293511861&club=JURADO"
+    },
+    {
+      "torIdd": "1748285479",
+      "name": "18 HOYOS MEDAL PLAY 29/05/2025 JUEVES",
+      "date": "2025-05-29",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1748285479&club=JURADO"
+    },
+    {
+      "torIdd": "897018076",
+      "name": "18 HOYOS MEDAL PLAY 30/05/2025 VIERNES",
+      "date": "2025-05-30",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=897018076&club=JURADO"
+    },
+    {
+      "torIdd": "1748480105",
+      "name": "18 HOYOS MEDAL PLAY SABADO 31/05/2025",
+      "date": "2025-05-31",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1748480105&club=JURADO"
+    },
+    {
+      "torIdd": "663246966",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 01/06/2025",
+      "date": "2025-06-01",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=663246966&club=JURADO"
+    },
+    {
+      "torIdd": "373713588",
+      "name": "18 HOYOS MEDAL PLAY MARTES 03/06/2025",
+      "date": "2025-06-03",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=373713588&club=JURADO"
+    },
+    {
+      "torIdd": "1463712165",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 04/06/2025",
+      "date": "2025-06-04",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1463712165&club=JURADO"
+    },
+    {
+      "torIdd": "1736810498",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 05/06/2025",
+      "date": "2025-06-05",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1736810498&club=JURADO"
+    },
+    {
+      "torIdd": "-1229001637",
+      "name": "18 HMP TOUR CALLAWAY 06/06/2025 VIERNES",
+      "date": "2025-06-06",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1229001637&club=JURADO"
+    },
+    {
+      "torIdd": "557720099",
+      "name": "18 HOYOS MEDAL PLAY SABADO 07/06/2025",
+      "date": "2025-06-07",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=557720099&club=JURADO"
+    },
+    {
+      "torIdd": "-1000902104",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 08/06/2025",
+      "date": "2025-06-08",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1000902104&club=JURADO"
+    },
+    {
+      "torIdd": "1749259753",
+      "name": "18 HOYOS MEDAL PLAY MARTES 10/06/2025",
+      "date": "2025-06-10",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1749259753&club=JURADO"
+    },
+    {
+      "torIdd": "-1177505802",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 11/06/2025",
+      "date": "2025-06-11",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1177505802&club=JURADO"
+    },
+    {
+      "torIdd": "279728363",
+      "name": "18 HMP CIRCUITO CALLAWAY TOUR JUEVES 12/06/25",
+      "date": "2025-06-12",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=279728363&club=JURADO"
+    },
+    {
+      "torIdd": "-11342575",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 13/06/2025",
+      "date": "2025-06-13",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-11342575&club=JURADO"
+    },
+    {
+      "torIdd": "1627710329",
+      "name": "18 HOYOS MEDAL PLAY SABADO 14/06/2025",
+      "date": "2025-06-14",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1627710329&club=JURADO"
+    },
+    {
+      "torIdd": "-1283804602",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 15/06/2025",
+      "date": "2025-06-15",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1283804602&club=JURADO"
+    },
+    {
+      "torIdd": "2084321871",
+      "name": "18 HOYOS MEDAL PLAY LUNES 16/06/2025",
+      "date": "2025-06-16",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2084321871&club=JURADO"
+    },
+    {
+      "torIdd": "949122735",
+      "name": "18 HOYOS MEDAL PLAY MARTES 17/06/2025",
+      "date": "2025-06-17",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=949122735&club=JURADO"
+    },
+    {
+      "torIdd": "153097924",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 18/06/2025",
+      "date": "2025-06-18",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=153097924&club=JURADO"
+    },
+    {
+      "torIdd": "1276647541",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 19/06/2025",
+      "date": "2025-06-19",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1276647541&club=JURADO"
+    },
+    {
+      "torIdd": "-492935995",
+      "name": "18 HOYOS MEDAL PLAY 20/06/2025 VIERNES",
+      "date": "2025-06-20",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-492935995&club=JURADO"
+    },
+    {
+      "torIdd": "1017164962",
+      "name": "18 HOYOS MEDAL PLAY 21/06/2025 SABADO",
+      "date": "2025-06-21",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1017164962&club=JURADO"
+    },
+    {
+      "torIdd": "1750348982",
+      "name": "18 HOYOS MEDAL PLAY 22/06/2025 DOMINGO",
+      "date": "2025-06-22",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1750348982&club=JURADO"
+    },
+    {
+      "torIdd": "-638434993",
+      "name": "18 HOYOS MEDAL PLAY MARTES 24/06/2025",
+      "date": "2025-06-24",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-638434993&club=JURADO"
+    },
+    {
+      "torIdd": "-16616220",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 25/06/2025",
+      "date": "2025-06-25",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-16616220&club=JURADO"
+    },
+    {
+      "torIdd": "-848075755",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 26/06/2025",
+      "date": "2025-06-26",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-848075755&club=JURADO"
+    },
+    {
+      "torIdd": "628323762",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 27/06/2025",
+      "date": "2025-06-27",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=628323762&club=JURADO"
+    },
+    {
+      "torIdd": "104644803",
+      "name": "18 HOYOS MEDAL PLAY SABADO 28/06/2025",
+      "date": "2025-06-28",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=104644803&club=JURADO"
+    },
+    {
+      "torIdd": "-1929143560",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 29/06/2025",
+      "date": "2025-06-29",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1929143560&club=JURADO"
+    },
+    {
+      "torIdd": "1885087993",
+      "name": "18 HOYOS MEDAL PLAY MARTES 01/07/2025",
+      "date": "2025-07-01",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1885087993&club=JURADO"
+    },
+    {
+      "torIdd": "-1371346490",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 02/07/2025",
+      "date": "2025-07-02",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1371346490&club=JURADO"
+    },
+    {
+      "torIdd": "-750060593",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 03/07/2025",
+      "date": "2025-07-03",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-750060593&club=JURADO"
+    },
+    {
+      "torIdd": "-1423295132",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 04/07/2025",
+      "date": "2025-07-04",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1423295132&club=JURADO"
+    },
+    {
+      "torIdd": "1418690748",
+      "name": "COPA PRESIDENTE 18 H.CLASIF. SAB. 5/07/2025",
+      "date": "2025-07-05",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1418690748&club=JURADO"
+    },
+    {
+      "torIdd": "1306691853",
+      "name": "18 HMP DOM. 6/07/25 // COPA PRESI. OCTAVOS",
+      "date": "2025-07-06",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1306691853&club=JURADO"
+    },
+    {
+      "torIdd": "-97270454",
+      "name": "18 HOYOS MEDAL PLAY MARTES 8/07/2025",
+      "date": "2025-07-08",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-97270454&club=JURADO"
+    },
+    {
+      "torIdd": "-556127741",
+      "name": "18 HMP MIER 9/07/2025 // COPA PRESI CUARTOS",
+      "date": "2025-07-09",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-556127741&club=JURADO"
+    },
+    {
+      "torIdd": "-539487096",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 10/07/2025",
+      "date": "2025-07-10",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-539487096&club=JURADO"
+    },
+    {
+      "torIdd": "1752173064",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 11/07/2025",
+      "date": "2025-07-11",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1752173064&club=JURADO"
+    },
+    {
+      "torIdd": "1588917097",
+      "name": "18 HMP SAB. 12/07/25 // SEMI COPA PRESIDENTE",
+      "date": "2025-07-12",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1588917097&club=JURADO"
+    },
+    {
+      "torIdd": "-977330314",
+      "name": "18 HMP DOM. 13/07/25 // FINALES COPA PRESIDENTE",
+      "date": "2025-07-13",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-977330314&club=JURADO"
+    },
+    {
+      "torIdd": "1752342422",
+      "name": "18 HOYOS MEDAL PLAY MARTES 15/07/2025",
+      "date": "2025-07-15",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1752342422&club=JURADO"
+    },
+    {
+      "torIdd": "-821636769",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 16/07/2025",
+      "date": "2025-07-16",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-821636769&club=JURADO"
+    },
+    {
+      "torIdd": "1091446708",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 17/07/2025",
+      "date": "2025-07-17",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1091446708&club=JURADO"
+    },
+    {
+      "torIdd": "-1876381019",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 18/07/2025",
+      "date": "2025-07-18",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1876381019&club=JURADO"
+    },
+    {
+      "torIdd": "-1376311552",
+      "name": "18 HOYOS MEDAL PLAY SABADO 19/07/2025",
+      "date": "2025-07-19",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1376311552&club=JURADO"
+    },
+    {
+      "torIdd": "1635506945",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 20/07/2025",
+      "date": "2025-07-20",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1635506945&club=JURADO"
+    },
+    {
+      "torIdd": "1744313608",
+      "name": "18 HOYOS MEDAL PLAY MARTES 22/07/2025",
+      "date": "2025-07-22",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1744313608&club=JURADO"
+    },
+    {
+      "torIdd": "1253198441",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 23/07/2025",
+      "date": "2025-07-23",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1253198441&club=JURADO"
+    },
+    {
+      "torIdd": "-1653511562",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 24/07/2025",
+      "date": "2025-07-24",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1653511562&club=JURADO"
+    },
+    {
+      "torIdd": "1645591231",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 25/07/2025",
+      "date": "2025-07-25",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1645591231&club=JURADO"
+    },
+    {
+      "torIdd": "-128356972",
+      "name": "18 HOYOS MEDAL PLAY SABADO 26/07/2025",
+      "date": "2025-07-26",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-128356972&club=JURADO"
+    },
+    {
+      "torIdd": "-2127873275",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 27/07/2025",
+      "date": "2025-07-27",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2127873275&club=JURADO"
+    },
+    {
+      "torIdd": "820412053",
+      "name": "LUNES 28/07/2025 AIREACION PROGRAMADA",
+      "date": "2025-07-28",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=820412053&club=JURADO"
+    },
+    {
+      "torIdd": "712908338",
+      "name": "MARTES 29/07/2025 SIN TORNEO 9 HOYOS",
+      "date": "2025-07-29",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=712908338&club=JURADO"
+    },
+    {
+      "torIdd": "-640927029",
+      "name": "MIERCOLES 30/07/2025 SIN TORNEO 18 HOYOS",
+      "date": "2025-07-30",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-640927029&club=JURADO"
+    },
+    {
+      "torIdd": "-1049053264",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 31/07/2025",
+      "date": "2025-07-31",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1049053264&club=JURADO"
+    },
+    {
+      "torIdd": "882531278",
+      "name": "PRACTICA LIBRE VIERNES 1/08/2025",
+      "date": "2025-08-01",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=882531278&club=JURADO"
+    },
+    {
+      "torIdd": "-1358046708",
+      "name": "18 HOYOS MEDAL PLAY SABADO 2/08/2025",
+      "date": "2025-08-02",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1358046708&club=JURADO"
+    },
+    {
+      "torIdd": "2119572509",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 3/08/2025",
+      "date": "2025-08-03",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2119572509&club=JURADO"
+    },
+    {
+      "torIdd": "-928710886",
+      "name": "PRACTICA LIBRE MARTES 5/08/2025",
+      "date": "2025-08-05",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-928710886&club=JURADO"
+    },
+    {
+      "torIdd": "1186083731",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 6/08/2025",
+      "date": "2025-08-06",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1186083731&club=JURADO"
+    },
+    {
+      "torIdd": "-848747816",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 7/08/2025",
+      "date": "2025-08-07",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-848747816&club=JURADO"
+    },
+    {
+      "torIdd": "248066041",
+      "name": "PRACTICA LIBRE VIERNES 8/08/2025",
+      "date": "2025-08-08",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=248066041&club=JURADO"
+    },
+    {
+      "torIdd": "1010401030",
+      "name": "18 HOYOS MEDAL PLAY SABADO 09/08/2025",
+      "date": "2025-08-09",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1010401030&club=JURADO"
+    },
+    {
+      "torIdd": "1639626767",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 10/08/2025",
+      "date": "2025-08-10",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1639626767&club=JURADO"
+    },
+    {
+      "torIdd": "-627998160",
+      "name": "18 HOYOS PRACTICA LIBRE MARTES 12/08/2025",
+      "date": "2025-08-12",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-627998160&club=JURADO"
+    },
+    {
+      "torIdd": "-1031077263",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 13/08/2025",
+      "date": "2025-08-13",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1031077263&club=JURADO"
+    },
+    {
+      "torIdd": "1038152670",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 14/08/2025",
+      "date": "2025-08-14",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1038152670&club=JURADO"
+    },
+    {
+      "torIdd": "488919559",
+      "name": "18 HOYOS PRACTICA LIBRE VIERNES 15/08/2025",
+      "date": "2025-08-15",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=488919559&club=JURADO"
+    },
+    {
+      "torIdd": "1607775548",
+      "name": "18 HOYOS MEDAL PLAY SABADO 16/08/2025",
+      "date": "2025-08-16",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1607775548&club=JURADO"
+    },
+    {
+      "torIdd": "372753293",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 17/08/2025",
+      "date": "2025-08-17",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=372753293&club=JURADO"
+    },
+    {
+      "torIdd": "1755295717",
+      "name": "PRACTICA LIBRE MARTES 19/08/2025",
+      "date": "2025-08-19",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1755295717&club=JURADO"
+    },
+    {
+      "torIdd": "475638082",
+      "name": "PRACTICA LIBRE MIERCOLES 20/08/2025",
+      "date": "2025-08-20",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=475638082&club=JURADO"
+    },
+    {
+      "torIdd": "273943707",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 21/08/2025",
+      "date": "2025-08-21",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=273943707&club=JURADO"
+    },
+    {
+      "torIdd": "-1042712256",
+      "name": "PRACTICA LIBRE VIERNES 22/08/2025",
+      "date": "2025-08-22",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1042712256&club=JURADO"
+    },
+    {
+      "torIdd": "1474194339",
+      "name": "18 HOYOS MEDAL PLAY SABADO 23/08/2025",
+      "date": "2025-08-23",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1474194339&club=JURADO"
+    },
+    {
+      "torIdd": "1083006376",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 24/08/2025",
+      "date": "2025-08-24",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1083006376&club=JURADO"
+    },
+    {
+      "torIdd": "2097047177",
+      "name": "PRACTICA LIBRE MARTES 26/08/2025",
+      "date": "2025-08-26",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2097047177&club=JURADO"
+    },
+    {
+      "torIdd": "1041701910",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 27/08/2025",
+      "date": "2025-08-27",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1041701910&club=JURADO"
+    },
+    {
+      "torIdd": "-993283105",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 28/08/2025",
+      "date": "2025-08-28",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-993283105&club=JURADO"
+    },
+    {
+      "torIdd": "2015950900",
+      "name": "PRACTICA LIBRE VIERNES 29/08/2025",
+      "date": "2025-08-29",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2015950900&club=JURADO"
+    },
+    {
+      "torIdd": "-147695323",
+      "name": "18 HOYOS MEDAL PLAY SABADO 30/08/2025",
+      "date": "2025-08-30",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-147695323&club=JURADO"
+    },
+    {
+      "torIdd": "3205506",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 31/08/2025",
+      "date": "2025-08-31",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=3205506&club=JURADO"
+    },
+    {
+      "torIdd": "1759017044",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 01/10/2025",
+      "date": "2025-10-01",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1759017044&club=JURADO"
+    },
+    {
+      "torIdd": "1529388741",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 02/10/2025",
+      "date": "2025-10-02",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1529388741&club=JURADO"
+    },
+    {
+      "torIdd": "1365447153",
+      "name": "PRACTICA LIBRE MARTES 02/09/2025",
+      "date": "2025-10-02",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1365447153&club=JURADO"
+    },
+    {
+      "torIdd": "487122594",
+      "name": "PRACTICA LIBRE VIERNES 03/10/2025",
+      "date": "2025-10-03",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=487122594&club=JURADO"
+    },
+    {
+      "torIdd": "-674714274",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 03/09/2025",
+      "date": "2025-10-03",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-674714274&club=JURADO"
+    },
+    {
+      "torIdd": "407246459",
+      "name": "CAMP DEL CLUB 2025 36 H CLASF. SAB 4 Y DOM 5/10",
+      "date": "2025-10-04",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=407246459&club=JURADO"
+    },
+    {
+      "torIdd": "998829447",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 04/09/2025",
+      "date": "2025-10-04",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=998829447&club=JURADO"
+    },
+    {
+      "torIdd": "1759618515",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 5/10/2025",
+      "date": "2025-10-05",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1759618515&club=JURADO"
+    },
+    {
+      "torIdd": "2067335868",
+      "name": "PRACTICA LIBRE VIERNES 05/09/2025",
+      "date": "2025-10-05",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2067335868&club=JURADO"
+    },
+    {
+      "torIdd": "1756925832",
+      "name": "18 HOYOS MEDAL PLAY SABADO 06/09/2025",
+      "date": "2025-10-06",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1756925832&club=JURADO"
+    },
+    {
+      "torIdd": "-1270581856",
+      "name": "PRACTICA LIBRE MARTES 07/10/2025",
+      "date": "2025-10-07",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1270581856&club=JURADO"
+    },
+    {
+      "torIdd": "1936026345",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 07/09/2025",
+      "date": "2025-10-07",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1936026345&club=JURADO"
+    },
+    {
+      "torIdd": "2041998625",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 08/10/2025",
+      "date": "2025-10-08",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2041998625&club=JURADO"
+    },
+    {
+      "torIdd": "-1369647922",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 09/10/2025",
+      "date": "2025-10-09",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1369647922&club=JURADO"
+    },
+    {
+      "torIdd": "1757180295",
+      "name": "PRACTICA LIBRE MARTES 09/09/2025",
+      "date": "2025-10-09",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1757180295&club=JURADO"
+    },
+    {
+      "torIdd": "1759873434",
+      "name": "18 HMP VIERNES 10/10/25 // CUARTOS CAMP CLUB",
+      "date": "2025-10-10",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1759873434&club=JURADO"
+    },
+    {
+      "torIdd": "-1243660612",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 10/09/2025",
+      "date": "2025-10-10",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1243660612&club=JURADO"
+    },
+    {
+      "torIdd": "-1904636909",
+      "name": "18 HMP SAB. 11/10/2025 // SEMI CAMP. DEL CLUB",
+      "date": "2025-10-11",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1904636909&club=JURADO"
+    },
+    {
+      "torIdd": "-1919226099",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 11/09/2025",
+      "date": "2025-10-11",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1919226099&club=JURADO"
+    },
+    {
+      "torIdd": "620147032",
+      "name": "18 HMP DOM- 12/10/25 // FINALES CAMP. DEL CLUB",
+      "date": "2025-10-12",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=620147032&club=JURADO"
+    },
+    {
+      "torIdd": "1497477962",
+      "name": "PRACTICA LIBRE VIERNES 12/09/2025",
+      "date": "2025-10-12",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1497477962&club=JURADO"
+    },
+    {
+      "torIdd": "-1742667773",
+      "name": "18 HOYOS MEDAL PLAY SABADO 13/09/2025",
+      "date": "2025-10-13",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1742667773&club=JURADO"
+    },
+    {
+      "torIdd": "1759970249",
+      "name": "PRACTICA LIBRE MARTES 14/10/2025",
+      "date": "2025-10-14",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1759970249&club=JURADO"
+    },
+    {
+      "torIdd": "-1785744760",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 14/09/2025",
+      "date": "2025-10-14",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1785744760&club=JURADO"
+    },
+    {
+      "torIdd": "-1019068330",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 15/10/2025",
+      "date": "2025-10-15",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1019068330&club=JURADO"
+    },
+    {
+      "torIdd": "-1074621665",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 16/10/2025",
+      "date": "2025-10-16",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1074621665&club=JURADO"
+    },
+    {
+      "torIdd": "1588105705",
+      "name": "PRACTICA LIBRE MARTES 16/09/2025",
+      "date": "2025-10-16",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1588105705&club=JURADO"
+    },
+    {
+      "torIdd": "445757044",
+      "name": "PRACITICA LIBRE VIERNES 17/10/2025",
+      "date": "2025-10-17",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=445757044&club=JURADO"
+    },
+    {
+      "torIdd": "-1007092746",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 17/09/2025",
+      "date": "2025-10-17",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1007092746&club=JURADO"
+    },
+    {
+      "torIdd": "-292992411",
+      "name": "18 HOYOS MEDAL PLAY SABADO 18/10/2025",
+      "date": "2025-10-18",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-292992411&club=JURADO"
+    },
+    {
+      "torIdd": "-727495105",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 18/09/2025",
+      "date": "2025-10-18",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-727495105&club=JURADO"
+    },
+    {
+      "torIdd": "-1489448510",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 19/10/2025",
+      "date": "2025-10-19",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1489448510&club=JURADO"
+    },
+    {
+      "torIdd": "-1379837164",
+      "name": "PRACTICA LIBRE VIERNES 19/09/2025",
+      "date": "2025-10-19",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1379837164&club=JURADO"
+    },
+    {
+      "torIdd": "-1546585467",
+      "name": "18 HOYOS MEDAL PLAY SABADO 20/09/2025",
+      "date": "2025-10-20",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1546585467&club=JURADO"
+    },
+    {
+      "torIdd": "-1745802469",
+      "name": "PRACTICA LIBRE MARTES 21/10/2025",
+      "date": "2025-10-21",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1745802469&club=JURADO"
+    },
+    {
+      "torIdd": "1427081058",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 21/09/2025",
+      "date": "2025-10-21",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1427081058&club=JURADO"
+    },
+    {
+      "torIdd": "-505489984",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 22/10/2025",
+      "date": "2025-10-22",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-505489984&club=JURADO"
+    },
+    {
+      "torIdd": "-1741286719",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 23/10/2025",
+      "date": "2025-10-23",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1741286719&club=JURADO"
+    },
+    {
+      "torIdd": "1440536635",
+      "name": "9 HOYOS MARTES 23/09/2025 PRACTICA LIBRE",
+      "date": "2025-10-23",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1440536635&club=JURADO"
+    },
+    {
+      "torIdd": "26915310",
+      "name": "PRACTICA LIBRE VIERNES 24/10/2025",
+      "date": "2025-10-24",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=26915310&club=JURADO"
+    },
+    {
+      "torIdd": "-1445526432",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 24/09/2025",
+      "date": "2025-10-24",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1445526432&club=JURADO"
+    },
+    {
+      "torIdd": "-1718805801",
+      "name": "18 HOYOS MEDAL PLAY SABADO 25/10/2025",
+      "date": "2025-10-25",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1718805801&club=JURADO"
+    },
+    {
+      "torIdd": "1085932769",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 25/09/2025",
+      "date": "2025-10-25",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1085932769&club=JURADO"
+    },
+    {
+      "torIdd": "-2035621428",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 26/10/2025",
+      "date": "2025-10-26",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2035621428&club=JURADO"
+    },
+    {
+      "torIdd": "341115278",
+      "name": "PRACTICA LIBRE VIERNES 26/09/2025",
+      "date": "2025-10-26",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=341115278&club=JURADO"
+    },
+    {
+      "torIdd": "265738743",
+      "name": "18 HOYOS MEDAL PLAY SABADO 27/09/2025",
+      "date": "2025-10-27",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=265738743&club=JURADO"
+    },
+    {
+      "torIdd": "-1444480803",
+      "name": "PRACTICA LIBRE MARTES 28/10/2025",
+      "date": "2025-10-28",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1444480803&club=JURADO"
+    },
+    {
+      "torIdd": "964593409",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 28/09/2025",
+      "date": "2025-10-28",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=964593409&club=JURADO"
+    },
+    {
+      "torIdd": "124800218",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 29/10/2025",
+      "date": "2025-10-29",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=124800218&club=JURADO"
+    },
+    {
+      "torIdd": "-1471586733",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 30/10/2025",
+      "date": "2025-10-30",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1471586733&club=JURADO"
+    },
+    {
+      "torIdd": "-1151845780",
+      "name": "9 HOYOS MARTES 30/09/2025 PRACTICA LIBRE",
+      "date": "2025-10-30",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1151845780&club=JURADO"
+    },
+    {
+      "torIdd": "1761081133",
+      "name": "PRACTICA LIBRE VIERNES 31/10/2025",
+      "date": "2025-10-31",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1761081133&club=JURADO"
+    },
+    {
+      "torIdd": "-437722902",
+      "name": "18 HOYOS MEDAL PLAY SABADO 1/11/2025",
+      "date": "2025-11-01",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-437722902&club=JURADO"
+    },
+    {
+      "torIdd": "-863910621",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 2/11/2025",
+      "date": "2025-11-02",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-863910621&club=JURADO"
+    },
+    {
+      "torIdd": "-1460764350",
+      "name": "PRACTICA LIBRE MARTES 04/11/2025",
+      "date": "2025-11-04",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1460764350&club=JURADO"
+    },
+    {
+      "torIdd": "-2138176357",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 05/11/2025",
+      "date": "2025-11-05",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2138176357&club=JURADO"
+    },
+    {
+      "torIdd": "-1864756928",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 06/11/2025",
+      "date": "2025-11-06",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1864756928&club=JURADO"
+    },
+    {
+      "torIdd": "1909753921",
+      "name": "PRACTICA LIBRE VIERNES 07/11/2025",
+      "date": "2025-11-07",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1909753921&club=JURADO"
+    },
+    {
+      "torIdd": "1409992828",
+      "name": "18 HOYOS MEDAL PLAY SABADO 08/11/2025",
+      "date": "2025-11-08",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1409992828&club=JURADO"
+    },
+    {
+      "torIdd": "688170445",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 09/11/2025",
+      "date": "2025-11-09",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=688170445&club=JURADO"
+    },
+    {
+      "torIdd": "1762630779",
+      "name": "PRACTICA LIBRE 11/11/2025 MARTES",
+      "date": "2025-11-11",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1762630779&club=JURADO"
+    },
+    {
+      "torIdd": "1981088672",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 12/11/2025",
+      "date": "2025-11-12",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1981088672&club=JURADO"
+    },
+    {
+      "torIdd": "1794335521",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 13/11/2025",
+      "date": "2025-11-13",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1794335521&club=JURADO"
+    },
+    {
+      "torIdd": "1528304334",
+      "name": "PRACTICA LIBRE 14/11/2025 VIERNES",
+      "date": "2025-11-14",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1528304334&club=JURADO"
+    },
+    {
+      "torIdd": "-778018249",
+      "name": "18 HOYOS MEDAL PLAY SABADO 15/11/2025",
+      "date": "2025-11-15",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-778018249&club=JURADO"
+    },
+    {
+      "torIdd": "-1406227028",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 16/11/2025",
+      "date": "2025-11-16",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1406227028&club=JURADO"
+    },
+    {
+      "torIdd": "1128075069",
+      "name": "PRACTICA LIBRE 18/11/2025 MARTES",
+      "date": "2025-11-18",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1128075069&club=JURADO"
+    },
+    {
+      "torIdd": "195853242",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 19/11/2025",
+      "date": "2025-11-19",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=195853242&club=JURADO"
+    },
+    {
+      "torIdd": "-788866125",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 20/11/2025",
+      "date": "2025-11-20",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-788866125&club=JURADO"
+    },
+    {
+      "torIdd": "-885297032",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 21/11/2025",
+      "date": "2025-11-21",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-885297032&club=JURADO"
+    },
+    {
+      "torIdd": "-427911911",
+      "name": "18 HOYOS MEDAL PLAY SABADO 22/11/2025",
+      "date": "2025-11-22",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-427911911&club=JURADO"
+    },
+    {
+      "torIdd": "-948655258",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 23/11/2025",
+      "date": "2025-11-23",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-948655258&club=JURADO"
+    },
+    {
+      "torIdd": "1763594268",
+      "name": "18 HOYOS MEDAL PLAY LUNES 24/11/2025",
+      "date": "2025-11-24",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1763594268&club=JURADO"
+    },
+    {
+      "torIdd": "1763855715",
+      "name": "PRACTICA LIBRE 25/11/2025 MARTES",
+      "date": "2025-11-25",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1763855715&club=JURADO"
+    },
+    {
+      "torIdd": "-162624408",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 26/11/2025",
+      "date": "2025-11-26",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-162624408&club=JURADO"
+    },
+    {
+      "torIdd": "-269214135",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 27/11/2025",
+      "date": "2025-11-27",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-269214135&club=JURADO"
+    },
+    {
+      "torIdd": "1717496022",
+      "name": "PRACTICA LIBRE 28/11/2025 VIERNES",
+      "date": "2025-11-28",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1717496022&club=JURADO"
+    },
+    {
+      "torIdd": "-882953825",
+      "name": "18 HOYOS MEDAL PLAY SABADO 29/11/2025",
+      "date": "2025-11-29",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-882953825&club=JURADO"
+    },
+    {
+      "torIdd": "-753888524",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 30/11/2025",
+      "date": "2025-11-30",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-753888524&club=JURADO"
+    },
+    {
+      "torIdd": "1764529603",
+      "name": "PRACTICA LIBRE MARTES 2/12/2025",
+      "date": "2025-12-02",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1764529603&club=JURADO"
+    },
+    {
+      "torIdd": "1831044424",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 3/12/2025",
+      "date": "2025-12-03",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1831044424&club=JURADO"
+    },
+    {
+      "torIdd": "50142633",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 4/12/2025",
+      "date": "2025-12-04",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=50142633&club=JURADO"
+    },
+    {
+      "torIdd": "-865858378",
+      "name": "PRACTICA LIBRE VIERNES 5/12/2025",
+      "date": "2025-12-05",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-865858378&club=JURADO"
+    },
+    {
+      "torIdd": "-259932161",
+      "name": "18 HOYOS MEDAL PLAY SABADO 6/12/2025",
+      "date": "2025-12-06",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-259932161&club=JURADO"
+    },
+    {
+      "torIdd": "504224212",
+      "name": "18 HYOS MEDAL PLAY DOMINGO 7/12/2025",
+      "date": "2025-12-07",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=504224212&club=JURADO"
+    },
+    {
+      "torIdd": "186892869",
+      "name": "18 HOYOS MEDAL PLAY LUNES 8/12/2025",
+      "date": "2025-12-08",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=186892869&club=JURADO"
+    },
+    {
+      "torIdd": "236135458",
+      "name": "PRACTICA LIBRE MARTES 9/12/2025",
+      "date": "2025-12-09",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=236135458&club=JURADO"
+    },
+    {
+      "torIdd": "-1224824201",
+      "name": "3ra.LAGUNEADA LEE GOLF MIERCOLES 10/12/2025",
+      "date": "2025-12-10",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1224824201&club=JURADO"
+    },
+    {
+      "torIdd": "-555515551",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 11/12/2025",
+      "date": "2025-12-11",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-555515551&club=JURADO"
+    },
+    {
+      "torIdd": "-957697203",
+      "name": "MIERCOLES 10/12/2025 PROFESIONALES",
+      "date": "2025-12-11",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-957697203&club=JURADO"
+    },
+    {
+      "torIdd": "-948247538",
+      "name": "PRACTICA LIBRE VIERNES 12/12/2025",
+      "date": "2025-12-12",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-948247538&club=JURADO"
+    },
+    {
+      "torIdd": "-864948095",
+      "name": "18 HOYOS MEDAL PLAY SABADO 13/12/2025",
+      "date": "2025-12-13",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-864948095&club=JURADO"
+    },
+    {
+      "torIdd": "-1453642578",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 14/12/2025",
+      "date": "2025-12-14",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1453642578&club=JURADO"
+    },
+    {
+      "torIdd": "1312349211",
+      "name": "PRACTICA LIBRE 16/12/2025 MARTES",
+      "date": "2025-12-16",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1312349211&club=JURADO"
+    },
+    {
+      "torIdd": "-1786842432",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 17/12/2025",
+      "date": "2025-12-17",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1786842432&club=JURADO"
+    },
+    {
+      "torIdd": "1164520385",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 18/12/2025",
+      "date": "2025-12-18",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1164520385&club=JURADO"
+    },
+    {
+      "torIdd": "-1676929298",
+      "name": "PRACTICA LIBRE 19/12/2025 VIERNES",
+      "date": "2025-12-19",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1676929298&club=JURADO"
+    },
+    {
+      "torIdd": "103757195",
+      "name": "18 HOYOS MEDAL PLAY SABADO 20/12/2025",
+      "date": "2025-12-20",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=103757195&club=JURADO"
+    },
+    {
+      "torIdd": "1814514544",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 21/12/2025",
+      "date": "2025-12-21",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1814514544&club=JURADO"
+    },
+    {
+      "torIdd": "-55647567",
+      "name": "PRACTICA LIBRE MARTES 23/12/2025",
+      "date": "2025-12-23",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-55647567&club=JURADO"
+    },
+    {
+      "torIdd": "-2119639266",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 24/12/2025",
+      "date": "2025-12-24",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2119639266&club=JURADO"
+    },
+    {
+      "torIdd": "883174471",
+      "name": "JUEVES 25/12/2025 NAVIDAD CLUB CERRADO",
+      "date": "2025-12-25",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=883174471&club=JURADO"
+    },
+    {
+      "torIdd": "-1352428932",
+      "name": "PRACTICA LIBRE VIERNES 26/12/2025",
+      "date": "2025-12-26",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1352428932&club=JURADO"
+    },
+    {
+      "torIdd": "-1320318460",
+      "name": "ULT.18 HOYOS COPA COREA DOM 28/12/2025",
+      "date": "2025-12-28",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1320318460&club=JURADO"
+    },
+    {
+      "torIdd": "987677256",
+      "name": "LUNES 29/12/2025 AIREACION DE GREENES",
+      "date": "2025-12-29",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=987677256&club=JURADO"
+    },
+    {
+      "torIdd": "-1514875223",
+      "name": "PRACTICA LIBRE MARTES 30/12/2025",
+      "date": "2025-12-30",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1514875223&club=JURADO"
+    },
+    {
+      "torIdd": "-1226468938",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 31/12/2025",
+      "date": "2025-12-31",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1226468938&club=JURADO"
+    },
+    {
+      "torIdd": "1767199445",
+      "name": "PRACTICA LIBRE VIERNES 2/01/2026",
+      "date": "2026-01-02",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1767199445&club=JURADO"
+    },
+    {
+      "torIdd": "2024467826",
+      "name": "18 HOYOS MEDAL PLAY SABADO 3/01/2026",
+      "date": "2026-01-03",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2024467826&club=JURADO"
+    },
+    {
+      "torIdd": "1776298251",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 4/01/2026",
+      "date": "2026-01-04",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1776298251&club=JURADO"
+    },
+    {
+      "torIdd": "1767402098",
+      "name": "PRACTICA LIBRE MARTES 6/01/2026",
+      "date": "2026-01-06",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1767402098&club=JURADO"
+    },
+    {
+      "torIdd": "-693296629",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 7/01/2026",
+      "date": "2026-01-07",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-693296629&club=JURADO"
+    },
+    {
+      "torIdd": "-725295632",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 8/01/2026",
+      "date": "2026-01-08",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-725295632&club=JURADO"
+    },
+    {
+      "torIdd": "302031665",
+      "name": "PRACTICA LIBRE VIERNES 9/01/2026",
+      "date": "2026-01-09",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=302031665&club=JURADO"
+    },
+    {
+      "torIdd": "1408939422",
+      "name": "18 HOYOS MEDAL PLAY SABADO 10/01/2026",
+      "date": "2026-01-10",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1408939422&club=JURADO"
+    },
+    {
+      "torIdd": "-742530873",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 11/01/2026",
+      "date": "2026-01-11",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-742530873&club=JURADO"
+    },
+    {
+      "torIdd": "-1585907814",
+      "name": "PRACTICA LIBRE MARTES 13/01/2026",
+      "date": "2026-01-13",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1585907814&club=JURADO"
+    },
+    {
+      "torIdd": "1966596627",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 14/01/2026",
+      "date": "2026-01-14",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1966596627&club=JURADO"
+    },
+    {
+      "torIdd": "900714328",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 15/01/2026",
+      "date": "2026-01-15",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=900714328&club=JURADO"
+    },
+    {
+      "torIdd": "-2110750087",
+      "name": "PRACTICA LIBRE VIERNES 16/01/2026",
+      "date": "2026-01-16",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-2110750087&club=JURADO"
+    },
+    {
+      "torIdd": "2030019910",
+      "name": "18 HOYOS MEDAL PLAY SABADO 17/01/2026",
+      "date": "2026-01-17",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2030019910&club=JURADO"
+    },
+    {
+      "torIdd": "1726804303",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 18/01/2026",
+      "date": "2026-01-18",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1726804303&club=JURADO"
+    },
+    {
+      "torIdd": "-146258398",
+      "name": "PRACTICA LIBRE MARTES 20/01/2026",
+      "date": "2026-01-20",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-146258398&club=JURADO"
+    },
+    {
+      "torIdd": "-986259461",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 21/01/2026",
+      "date": "2026-01-21",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-986259461&club=JURADO"
+    },
+    {
+      "torIdd": "1335943456",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 22/01/2026",
+      "date": "2026-01-22",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1335943456&club=JURADO"
+    },
+    {
+      "torIdd": "831148705",
+      "name": "PRACTICA LIBRE VIERNES 23/01/2026",
+      "date": "2026-01-23",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=831148705&club=JURADO"
+    },
+    {
+      "torIdd": "1053633614",
+      "name": "18 HOYOS MEDAL PLAY SABADO 24/01/2026",
+      "date": "2026-01-24",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1053633614&club=JURADO"
+    },
+    {
+      "torIdd": "1834933687",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 25/01/2026",
+      "date": "2026-01-25",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1834933687&club=JURADO"
+    },
+    {
+      "torIdd": "-906506751",
+      "name": "PRACTICA LIBRE MARTES 27/01/2026",
+      "date": "2026-01-27",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-906506751&club=JURADO"
+    },
+    {
+      "torIdd": "1592007726",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 28/01/2026",
+      "date": "2026-01-28",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1592007726&club=JURADO"
+    },
+    {
+      "torIdd": "1156204567",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 29/01/2026",
+      "date": "2026-01-29",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1156204567&club=JURADO"
+    },
+    {
+      "torIdd": "1823692300",
+      "name": "PRACTICA LIBRE VIERNES 30/01/2026",
+      "date": "2026-01-30",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1823692300&club=JURADO"
+    },
+    {
+      "torIdd": "1362549530",
+      "name": "18 HOYOS MEDAL PLAY SABADO 31/01/2026",
+      "date": "2026-01-31",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1362549530&club=JURADO"
+    },
+    {
+      "torIdd": "841792505",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 01/02/2026",
+      "date": "2026-02-01",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=841792505&club=JURADO"
+    },
+    {
+      "torIdd": "-469843770",
+      "name": "PRACTICA LIBRE MARTES 03/01/2026",
+      "date": "2026-02-03",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-469843770&club=JURADO"
+    },
+    {
+      "torIdd": "-931543345",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 04/02/2026",
+      "date": "2026-02-04",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-931543345&club=JURADO"
+    },
+    {
+      "torIdd": "-1899631516",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 05/02/2026",
+      "date": "2026-02-05",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1899631516&club=JURADO"
+    },
+    {
+      "torIdd": "271345045",
+      "name": "PRACTICA LIBRE VIERNES 06/02/2026",
+      "date": "2026-02-06",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=271345045&club=JURADO"
+    },
+    {
+      "torIdd": "-1203734069",
+      "name": "18 HOYOS MEDAL PLAY SABADO 07/02/2026",
+      "date": "2026-02-07",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1203734069&club=JURADO"
+    },
+    {
+      "torIdd": "-145639118",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 08/02/2026",
+      "date": "2026-02-08",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-145639118&club=JURADO"
+    },
+    {
+      "torIdd": "1770506945",
+      "name": "PRACTICA LIBRE MARTES 10/02/2026",
+      "date": "2026-02-10",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1770506945&club=JURADO"
+    },
+    {
+      "torIdd": "944245230",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 11/02/2026",
+      "date": "2026-02-11",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=944245230&club=JURADO"
+    },
+    {
+      "torIdd": "-216689961",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 12/02/2026",
+      "date": "2026-02-12",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-216689961&club=JURADO"
+    },
+    {
+      "torIdd": "-545785396",
+      "name": "PRACTICA LIBRE VIERNES 13/02/2026",
+      "date": "2026-02-13",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-545785396&club=JURADO"
+    },
+    {
+      "torIdd": "-1987825443",
+      "name": "18 HOYOS MEDAL PLAY SABADO 14/02/2026",
+      "date": "2026-02-14",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1987825443&club=JURADO"
+    },
+    {
+      "torIdd": "-1771887398",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 15/02/2026",
+      "date": "2026-02-15",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1771887398&club=JURADO"
+    },
+    {
+      "torIdd": "-150383021",
+      "name": "18 HOYOS MEDAL PLAY LUNES 16/02/2026",
+      "date": "2026-02-16",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-150383021&club=JURADO"
+    },
+    {
+      "torIdd": "99794584",
+      "name": "18 HOYOS MEDAL PLAY MARTES 17/02/2026",
+      "date": "2026-02-17",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=99794584&club=JURADO"
+    },
+    {
+      "torIdd": "1817744868",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 18/02/2026",
+      "date": "2026-02-18",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1817744868&club=JURADO"
+    },
+    {
+      "torIdd": "-1489161963",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 19/02/2026",
+      "date": "2026-02-19",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1489161963&club=JURADO"
+    },
+    {
+      "torIdd": "-65372494",
+      "name": "PRACTIC LIBRE VIERNES 20/02/2026",
+      "date": "2026-02-20",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-65372494&club=JURADO"
+    },
+    {
+      "torIdd": "-1797244281",
+      "name": "18 HOYOS MEDAL PLAY SABADO 21/02/2026",
+      "date": "2026-02-21",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1797244281&club=JURADO"
+    },
+    {
+      "torIdd": "-557870148",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 22/02/2026",
+      "date": "2026-02-22",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-557870148&club=JURADO"
+    },
+    {
+      "torIdd": "1425558198",
+      "name": "PRACTICA LIBRE MARTES 24/02/2026",
+      "date": "2026-02-24",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1425558198&club=JURADO"
+    },
+    {
+      "torIdd": "-1572559361",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 25/02/2026",
+      "date": "2026-02-25",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1572559361&club=JURADO"
+    },
+    {
+      "torIdd": "-134985772",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 26/02/2026",
+      "date": "2026-02-26",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-134985772&club=JURADO"
+    },
+    {
+      "torIdd": "-545712059",
+      "name": "PRACTICA LIBRE VIERNES 27/02/2026",
+      "date": "2026-02-27",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-545712059&club=JURADO"
+    },
+    {
+      "torIdd": "1772118843",
+      "name": "18 HOYOS MEDAL PLAY SABADO 28/02/2026",
+      "date": "2026-02-28",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1772118843&club=JURADO"
+    },
+    {
+      "torIdd": "-1843891360",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 1/03/2026",
+      "date": "2026-03-01",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1843891360&club=JURADO"
+    },
+    {
+      "torIdd": "1772322922",
+      "name": "PRACTICA LIBRE MARTES 3/03/2026",
+      "date": "2026-03-03",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1772322922&club=JURADO"
+    },
+    {
+      "torIdd": "-6500701",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 4/03/2026",
+      "date": "2026-03-04",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-6500701&club=JURADO"
+    },
+    {
+      "torIdd": "-1980316504",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 5/03/2026",
+      "date": "2026-03-05",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1980316504&club=JURADO"
+    },
+    {
+      "torIdd": "-686849655",
+      "name": "PRACTICA LIBRE VIERNES 6/03/2026",
+      "date": "2026-03-06",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-686849655&club=JURADO"
+    },
+    {
+      "torIdd": "828037910",
+      "name": "APERTURA 2026 - 36 HMP 7-8/03/2026 SAB Y DOM",
+      "date": "2026-03-07",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=828037910&club=JURADO"
+    },
+    {
+      "torIdd": "1772928673",
+      "name": "ULT. 18 APERTURA DOMINGO 08/03/2026",
+      "date": "2026-03-08",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1772928673&club=JURADO"
+    },
+    {
+      "torIdd": "1773007922",
+      "name": "PRACTICA LIBRE MARTES 10/03/2026",
+      "date": "2026-03-10",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1773007922&club=JURADO"
+    },
+    {
+      "torIdd": "1870190795",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 11/03/2026",
+      "date": "2026-03-11",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1870190795&club=JURADO"
+    },
+    {
+      "torIdd": "-1497072208",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 12/03/2026",
+      "date": "2026-03-12",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1497072208&club=JURADO"
+    },
+    {
+      "torIdd": "-713672719",
+      "name": "PRACTICA LIBRE VIERNES 13/03/2026",
+      "date": "2026-03-13",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-713672719&club=JURADO"
+    },
+    {
+      "torIdd": "-1256114404",
+      "name": "18 HOYOS MEDAL PLAY SABADO 14/03/2026",
+      "date": "2026-03-14",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1256114404&club=JURADO"
+    },
+    {
+      "torIdd": "-379987987",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 15/03/2026",
+      "date": "2026-03-15",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-379987987&club=JURADO"
+    },
+    {
+      "torIdd": "1773249744",
+      "name": "AIREACION PROGRAMADA LUNES 16/03/2026",
+      "date": "2026-03-16",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1773249744&club=JURADO"
+    },
+    {
+      "torIdd": "1773525561",
+      "name": "PRACTICA LIBRE MARTES 17/03/2026",
+      "date": "2026-03-17",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1773525561&club=JURADO"
+    },
+    {
+      "torIdd": "675713542",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 18/03/2026",
+      "date": "2026-03-18",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=675713542&club=JURADO"
+    },
+    {
+      "torIdd": "1595477775",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 19/03/2026",
+      "date": "2026-03-19",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1595477775&club=JURADO"
+    },
+    {
+      "torIdd": "-206626908",
+      "name": "PRACTICA LIBRE VIERNES 20/03/2026",
+      "date": "2026-03-20",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-206626908&club=JURADO"
+    },
+    {
+      "torIdd": "-523768932",
+      "name": "18 HOYOS MEDAL PLAY SABADO 21/03/2026",
+      "date": "2026-03-21",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-523768932&club=JURADO"
+    },
+    {
+      "torIdd": "-70086035",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 22/03/2026",
+      "date": "2026-03-22",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-70086035&club=JURADO"
+    },
+    {
+      "torIdd": "1774209412",
+      "name": "18 HOYOS MEDAL PLAY LUNES 23/03/2026",
+      "date": "2026-03-23",
+      "weekDay": "Lunes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1774209412&club=JURADO"
+    },
+    {
+      "torIdd": "-1916378251",
+      "name": "18 HOYOS MEDAL PLAY MARTES 24/03/2026 FER",
+      "date": "2026-03-24",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1916378251&club=JURADO"
+    },
+    {
+      "torIdd": "635012149",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 25/03/2026",
+      "date": "2026-03-25",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=635012149&club=JURADO"
+    },
+    {
+      "torIdd": "-666641582",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 26/03/2026",
+      "date": "2026-03-26",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-666641582&club=JURADO"
+    },
+    {
+      "torIdd": "-1250346645",
+      "name": "PRACTICA LIBRE VIERNES 27/03/2026",
+      "date": "2026-03-27",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1250346645&club=JURADO"
+    },
+    {
+      "torIdd": "1774395607",
+      "name": "18 HOYOS MEDAL PLAY SABADO 28/03/2026",
+      "date": "2026-03-28",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1774395607&club=JURADO"
+    },
+    {
+      "torIdd": "697167820",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 29/03/2026",
+      "date": "2026-03-29",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=697167820&club=JURADO"
+    },
+    {
+      "torIdd": "-899387683",
+      "name": "PRACTICA LIBRE MARTES 31/03/2026",
+      "date": "2026-03-31",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-899387683&club=JURADO"
+    },
+    {
+      "torIdd": "1774811753",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 1/04/2026",
+      "date": "2026-04-01",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1774811753&club=JURADO"
+    },
+    {
+      "torIdd": "-375072138",
+      "name": "18 HMP JUEVES 2/04/2026 DIA DE LAS MALVINAS",
+      "date": "2026-04-02",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-375072138&club=JURADO"
+    },
+    {
+      "torIdd": "-37721409",
+      "name": "18 HOYOS MEDAL PLAY 3/04/2026 VIERNES SANTO",
+      "date": "2026-04-03",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-37721409&club=JURADO"
+    },
+    {
+      "torIdd": "-1350935148",
+      "name": "18 HOYOS MEDAL PLAY SABADO 4/04/2026",
+      "date": "2026-04-04",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1350935148&club=JURADO"
+    },
+    {
+      "torIdd": "1234529029",
+      "name": "18 HMP 5/04/2026 DOMINGO DE PASCUAS",
+      "date": "2026-04-05",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1234529029&club=JURADO"
+    },
+    {
+      "torIdd": "1775431728",
+      "name": "PRACTICA LIBRE MARTES 07/04/2026",
+      "date": "2026-04-07",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1775431728&club=JURADO"
+    },
+    {
+      "torIdd": "1775603324",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 8/04/2026",
+      "date": "2026-04-08",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1775603324&club=JURADO"
+    },
+    {
+      "torIdd": "-1416793139",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 9/04/2026",
+      "date": "2026-04-09",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1416793139&club=JURADO"
+    },
+    {
+      "torIdd": "-265844470",
+      "name": "PRACTICA LIBRE VIERNES 10/04/2026",
+      "date": "2026-04-10",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-265844470&club=JURADO"
+    },
+    {
+      "torIdd": "1284641475",
+      "name": "18 HOYOS MEDAL PLAY SABADO 11/04/2026",
+      "date": "2026-04-11",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1284641475&club=JURADO"
+    },
+    {
+      "torIdd": "-733446584",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 12/04/2026",
+      "date": "2026-04-12",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-733446584&club=JURADO"
+    },
+    {
+      "torIdd": "1775951154",
+      "name": "PRACTICA LIBRE MARTES 14/04/2026",
+      "date": "2026-04-14",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1775951154&club=JURADO"
+    },
+    {
+      "torIdd": "280219083",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 15/04/2026",
+      "date": "2026-04-15",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=280219083&club=JURADO"
+    },
+    {
+      "torIdd": "910134960",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 16/04/2026",
+      "date": "2026-04-16",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=910134960&club=JURADO"
+    },
+    {
+      "torIdd": "-547474191",
+      "name": "PRACTICA LIBRE VIERNES 17/04/2026",
+      "date": "2026-04-17",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-547474191&club=JURADO"
+    },
+    {
+      "torIdd": "778032222",
+      "name": "18 HOYOS MEDAL PLAY SABADO 18/04/2026",
+      "date": "2026-04-18",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=778032222&club=JURADO"
+    },
+    {
+      "torIdd": "19187847",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 19/04/2026",
+      "date": "2026-04-19",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=19187847&club=JURADO"
+    },
+    {
+      "torIdd": "1776553539",
+      "name": "PRACTICA LIBRE MARTES 21/04/2026",
+      "date": "2026-04-21",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1776553539&club=JURADO"
+    },
+    {
+      "torIdd": "61256648",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 22/04/2026",
+      "date": "2026-04-22",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=61256648&club=JURADO"
+    },
+    {
+      "torIdd": "1943226921",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 23/04/2026",
+      "date": "2026-04-23",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1943226921&club=JURADO"
+    },
+    {
+      "torIdd": "-1375412426",
+      "name": "PRACTICA LIBRE VIERNES 24/04/2026",
+      "date": "2026-04-24",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1375412426&club=JURADO"
+    },
+    {
+      "torIdd": "303916938",
+      "name": "36 HMP Cto. LOS CAMINOS DEL VINO 25-26/04/26",
+      "date": "2026-04-25",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=303916938&club=JURADO"
+    },
+    {
+      "torIdd": "-1342465492",
+      "name": "ULT. 18 LOS CAMINOS DEL VINO 26/04/2026 DOM",
+      "date": "2026-04-26",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1342465492&club=JURADO"
+    },
+    {
+      "torIdd": "1253125955",
+      "name": "PRACTICA LIBRE MARTES 28/04/2029",
+      "date": "2026-04-28",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1253125955&club=JURADO"
+    },
+    {
+      "torIdd": "-1100497452",
+      "name": "PRACTICA LIBRE MIERCOLES 29/04/2026",
+      "date": "2026-04-29",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-1100497452&club=JURADO"
+    },
+    {
+      "torIdd": "693710768",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 30/04/2026",
+      "date": "2026-04-30",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=693710768&club=JURADO"
+    },
+    {
+      "torIdd": "1777392264",
+      "name": "18 HOYOS MEDAL PLAY VIERNES 1/05/2026",
+      "date": "2026-05-01",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1777392264&club=JURADO"
+    },
+    {
+      "torIdd": "-39020055",
+      "name": "18 HOYOS MEDAL PLAY SABADO 2/05/2026",
+      "date": "2026-05-02",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-39020055&club=JURADO"
+    },
+    {
+      "torIdd": "2090946629",
+      "name": "18 HOYOS MEDAL PLAY DOMINGO 3/05/2026",
+      "date": "2026-05-03",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=2090946629&club=JURADO"
+    },
+    {
+      "torIdd": "1777666880",
+      "name": "PRACTICA LIBRE MARTES 5/05/2026",
+      "date": "2026-05-05",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1777666880&club=JURADO"
+    },
+    {
+      "torIdd": "1479440961",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 6/05/2026",
+      "date": "2026-05-06",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1479440961&club=JURADO"
+    },
+    {
+      "torIdd": "1296163694",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 7/05/2026",
+      "date": "2026-05-07",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1296163694&club=JURADO"
+    },
+    {
+      "torIdd": "-60174761",
+      "name": "PRACTICA LIBRE VIERNES 8/05/2026",
+      "date": "2026-05-08",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-60174761&club=JURADO"
+    }
+  ]
+}
