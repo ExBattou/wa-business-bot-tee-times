@@ -49,6 +49,8 @@ const config = {
     - Green fee fin de Sabado: $55.000
     - Green fee fin de Domingo: $50.000
     - Green fee fin de Sabado: $55.000
+    - Alquiler de Carro Electrico: $55.000
+    - Alquiler de Carro Manual $10.000
 
     PREGUNTAS FRECUENTES:
     - Hay Restaurante.
