@@ -1,6 +1,6 @@
 {
   "club": "JURADO",
-  "fetchedAt": "2026-05-06T14:49:56.043Z",
+  "fetchedAt": "2026-05-08T22:40:51.469Z",
   "month": "Mayo 2026",
   "tournaments": [
     {
@@ -3466,6 +3466,54 @@
       "weekDay": "Viernes",
       "club": "JURADO",
       "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-60174761&club=JURADO"
+    },
+    {
+      "torIdd": "1778254833",
+      "name": "18 H.CLASIF. \"COPA CAPITAN 26\" SAB. 09/05/2026",
+      "date": "2026-05-09",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1778254833&club=JURADO"
+    },
+    {
+      "torIdd": "-529451170",
+      "name": "18 HMP DOMINGO 10/05/2026 PARALELO C.CAP.",
+      "date": "2026-05-10",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-529451170&club=JURADO"
+    },
+    {
+      "torIdd": "411281541",
+      "name": "PRACTICA LIBRE MARTES 12/05/2026",
+      "date": "2026-05-12",
+      "weekDay": "Martes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=411281541&club=JURADO"
+    },
+    {
+      "torIdd": "-523494046",
+      "name": "18 HOYOS MEDAL PLAY MIERCOLES 13/05/2026",
+      "date": "2026-05-13",
+      "weekDay": "Miércoles",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-523494046&club=JURADO"
+    },
+    {
+      "torIdd": "-725141957",
+      "name": "18 HOYOS MEDAL PLAY JUEVES 14/05/2026",
+      "date": "2026-05-14",
+      "weekDay": "Jueves",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-725141957&club=JURADO"
+    },
+    {
+      "torIdd": "159222368",
+      "name": "PRACTICA LIBRE VIERNES 15/05/2026",
+      "date": "2026-05-15",
+      "weekDay": "Viernes",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=159222368&club=JURADO"
     }
   ]
 }
