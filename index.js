@@ -27,7 +27,7 @@ const conversationHistory = new Map();
 
 // ─── System prompt ────────────────────────────────────────────────────────────
 
-const SYSTEM_PROMPT = `
+const BASE_SYSTEM_PROMPT = `
 Sos un asistente virtual de WhatsApp. Tu nombre es "${config.botName}".
 
 CONTEXTO DEL NEGOCIO:
@@ -38,6 +38,31 @@ ${config.instructions}
 `.trim();
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
+
+function getCurrentDateTimeContext() {
+  const timeZone = config.businessHours?.timezone || "America/Argentina/Buenos_Aires";
+
+  const dateFormatter = new Intl.DateTimeFormat("es-AR", {
+    timeZone,
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+
+  const timeFormatter = new Intl.DateTimeFormat("es-AR", {
+    timeZone,
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  });
+
+  return `Fecha y hora actual del club: ${dateFormatter.format(new Date())}, ${timeFormatter.format(new Date())} hs (${timeZone}). Si el usuario dice "hoy", "mañana" o "pasado mañana", interpretalo usando esta fecha local.`;
+}
+
+function buildSystemPrompt() {
+  return `${BASE_SYSTEM_PROMPT}\n\nCONTEXTO TEMPORAL:\n${getCurrentDateTimeContext()}`;
+}
 
 function isWithinBusinessHours() {
   if (!config.businessHours.enabled) return true;
@@ -64,7 +89,7 @@ async function getAIResponse(userPhone, userMessage) {
       model:       config.ai.model,
       max_tokens:  config.ai.maxTokens,
       temperature: config.ai.temperature,
-      messages:    [{ role: "system", content: SYSTEM_PROMPT }, ...history],
+      messages:    [{ role: "system", content: buildSystemPrompt() }, ...history],
     });
     const reply = response.choices[0].message.content.trim();
     history.push({ role: "assistant", content: reply });

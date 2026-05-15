@@ -8,18 +8,39 @@
 
 import fs    from "fs";
 import fetch from "node-fetch";
+import config from "./config.js";
 
 const TOURNAMENTS_FILE = "./tournaments.json";
 const CLUB             = process.env.CLUB || "JURADO";
 const TIMEOUT_MS       = 30000;
 const MAX_RETRIES      = 3;
+const BOT_TIMEZONE     = config.businessHours?.timezone || "America/Argentina/Buenos_Aires";
 
 // ─── Helpers de fecha ─────────────────────────────────────────────────────────
 
+function getZonedDateParts(date = new Date()) {
+  const formatter = new Intl.DateTimeFormat("en-CA", {
+    timeZone: BOT_TIMEZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  });
+
+  const parts = formatter.formatToParts(date);
+  const year = Number(parts.find((part) => part.type === "year")?.value);
+  const month = Number(parts.find((part) => part.type === "month")?.value);
+  const day = Number(parts.find((part) => part.type === "day")?.value);
+
+  return { year, month, day };
+}
+
+function createDateAtNoon(year, month, day) {
+  return new Date(year, month - 1, day, 12, 0, 0, 0);
+}
+
 function today() {
-  const d = new Date();
-  d.setHours(0, 0, 0, 0);
-  return d;
+  const { year, month, day } = getZonedDateParts();
+  return createDateAtNoon(year, month, day);
 }
 
 function daysFromNow(n) {
@@ -31,7 +52,14 @@ function daysFromNow(n) {
 function toDate(dateStr) {
   // dateStr formato: YYYY-MM-DD
   const [y, m, d] = dateStr.split("-").map(Number);
-  return new Date(y, m - 1, d);
+  return createDateAtNoon(y, m, d);
+}
+
+function toDateString(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
 }
 
 function isFuture(dateStr) {
@@ -49,7 +77,7 @@ let tournamentsCache = null;
 let cacheDate        = null;
 
 function loadTournaments() {
-  const todayStr = new Date().toDateString();
+  const todayStr = toDateString(today());
   if (tournamentsCache && cacheDate === todayStr) return tournamentsCache;
 
   try {
@@ -62,6 +90,42 @@ function loadTournaments() {
     console.error("  ❌ No se pudo leer tournaments.json — corré node scraper.js primero");
     return null;
   }
+}
+
+function getRelativeTargetDate(message) {
+  const lower = message.toLowerCase();
+
+  if (lower.includes("pasado mañana") || lower.includes("pasado manana")) {
+    return daysFromNow(2);
+  }
+
+  if (lower.includes("mañana") || lower.includes("manana")) {
+    return daysFromNow(1);
+  }
+
+  if (lower.includes("hoy")) {
+    return today();
+  }
+
+  return null;
+}
+
+function getRelativeDateLabel(message) {
+  const lower = message.toLowerCase();
+
+  if (lower.includes("pasado mañana") || lower.includes("pasado manana")) {
+    return "pasado mañana";
+  }
+
+  if (lower.includes("mañana") || lower.includes("manana")) {
+    return "mañana";
+  }
+
+  if (lower.includes("hoy")) {
+    return "hoy";
+  }
+
+  return null;
 }
 
 // ─── Limpiar texto de celda HTML ──────────────────────────────────────────────
@@ -209,6 +273,7 @@ export function isTournamentQuery(message) {
   ];
 
   const dayKeywords = [
+    "hoy", "mañana", "manana", "pasado mañana", "pasado manana",
     "lunes", "martes", "miercoles", "miércoles", "jueves",
     "viernes", "sabado", "sábado", "domingo",
     "esta semana", "este fin", "fin de semana", "este mes",
@@ -271,6 +336,20 @@ export async function getTournamentInfo(userMessage) {
 
   // ── Buscar torneo específico ───────────────────────────────────────────────
   let targetTournament = null;
+
+  // 0. Por fecha relativa: hoy / mañana / pasado mañana
+  const relativeTargetDate = getRelativeTargetDate(lower);
+  const relativeDateLabel = getRelativeDateLabel(lower);
+  if (relativeTargetDate) {
+    const relativeDateStr = toDateString(relativeTargetDate);
+    targetTournament = tournaments.find(t => t.date === relativeDateStr);
+
+    if (!targetTournament) {
+      const day = String(relativeTargetDate.getDate()).padStart(2, "0");
+      const month = String(relativeTargetDate.getMonth() + 1).padStart(2, "0");
+      return `No encontré torneos para *${relativeDateLabel}* (${day}/${month}). Si querés, decime otra fecha y te digo los tee times. 📅`;
+    }
+  }
 
   // 1. Por día de semana — buscar el próximo que coincida (solo futuros)
   const weekDayMap = {
