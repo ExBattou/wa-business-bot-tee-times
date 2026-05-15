@@ -1,6 +1,6 @@
 {
   "club": "JURADO",
-  "fetchedAt": "2026-05-08T22:40:51.469Z",
+  "fetchedAt": "2026-05-15T16:44:57.839Z",
   "month": "Mayo 2026",
   "tournaments": [
     {
@@ -3468,12 +3468,12 @@
       "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-60174761&club=JURADO"
     },
     {
-      "torIdd": "1778254833",
-      "name": "18 H.CLASIF. \"COPA CAPITAN 26\" SAB. 09/05/2026",
+      "torIdd": "-818982815",
+      "name": "18 HOYOS MEDAL PLAY SABADO 09/05/2026",
       "date": "2026-05-09",
       "weekDay": "Sábado",
       "club": "JURADO",
-      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1778254833&club=JURADO"
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=-818982815&club=JURADO"
     },
     {
       "torIdd": "-529451170",
@@ -3514,6 +3514,22 @@
       "weekDay": "Viernes",
       "club": "JURADO",
       "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=159222368&club=JURADO"
+    },
+    {
+      "torIdd": "1778254833",
+      "name": "18 H.CLASIF. \"COPA CAPITAN 26\" SAB. 16/05/2026",
+      "date": "2026-05-16",
+      "weekDay": "Sábado",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1778254833&club=JURADO"
+    },
+    {
+      "torIdd": "1778860263",
+      "name": "18 HMP DOMINGO 17/05/2026 PARALELO C CAPITAN",
+      "date": "2026-05-17",
+      "weekDay": "Domingo",
+      "club": "JURADO",
+      "teeTimeUrl": "http://www.vistagolf.com.ar/paginas/inclusion/aspb/tee_time.asp?TorIdd=1778860263&club=JURADO"
     }
   ]
 }
